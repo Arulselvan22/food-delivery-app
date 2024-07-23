@@ -15,7 +15,7 @@ const App = () => {
 	return (
 		<>
 			<div className="container">
-				<h1 className="header">GFG Food Delivery App</h1>
+				<h1 className="header">Sara Food Delivery App</h1>
 				<Cart
 					style={{ position: "absolute", right: "20px", top: "20px" }}
 				/>
